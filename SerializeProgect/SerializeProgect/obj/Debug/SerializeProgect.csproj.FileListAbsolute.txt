@@ -1,0 +1,5 @@
+D:\Repository\SerializeProgect\SerializeProgect\bin\Debug\SerializeProgect.exe.config
+D:\Repository\SerializeProgect\SerializeProgect\bin\Debug\SerializeProgect.exe
+D:\Repository\SerializeProgect\SerializeProgect\bin\Debug\SerializeProgect.pdb
+D:\Repository\SerializeProgect\SerializeProgect\obj\Debug\SerializeProgect.exe
+D:\Repository\SerializeProgect\SerializeProgect\obj\Debug\SerializeProgect.pdb

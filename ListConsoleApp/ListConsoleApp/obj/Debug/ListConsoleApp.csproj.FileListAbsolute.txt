@@ -1,0 +1,6 @@
+D:\Repository\ListConsoleApp\ListConsoleApp\bin\Debug\ListConsoleApp.exe.config
+D:\Repository\ListConsoleApp\ListConsoleApp\bin\Debug\ListConsoleApp.exe
+D:\Repository\ListConsoleApp\ListConsoleApp\bin\Debug\ListConsoleApp.pdb
+D:\Repository\ListConsoleApp\ListConsoleApp\obj\Debug\ListConsoleApp.csprojResolveAssemblyReference.cache
+D:\Repository\ListConsoleApp\ListConsoleApp\obj\Debug\ListConsoleApp.exe
+D:\Repository\ListConsoleApp\ListConsoleApp\obj\Debug\ListConsoleApp.pdb

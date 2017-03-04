@@ -1,0 +1,8 @@
+D:\Repository\MagicEigthBallServiceHost\MagicEigthBallServiceHost\bin\Debug\MagicEigthBallServiceHost.exe.config
+D:\Repository\MagicEigthBallServiceHost\MagicEigthBallServiceHost\obj\Debug\MagicEigthBallServiceHost.csprojResolveAssemblyReference.cache
+D:\Repository\MagicEigthBallServiceHost\MagicEigthBallServiceHost\bin\Debug\MagicEigthBallServiceHost.exe
+D:\Repository\MagicEigthBallServiceHost\MagicEigthBallServiceHost\bin\Debug\MagicEigthBallServiceHost.pdb
+D:\Repository\MagicEigthBallServiceHost\MagicEigthBallServiceHost\bin\Debug\MagicEigthBallServiceLib.dll
+D:\Repository\MagicEigthBallServiceHost\MagicEigthBallServiceHost\bin\Debug\MagicEigthBallServiceLib.pdb
+D:\Repository\MagicEigthBallServiceHost\MagicEigthBallServiceHost\obj\Debug\MagicEigthBallServiceHost.exe
+D:\Repository\MagicEigthBallServiceHost\MagicEigthBallServiceHost\obj\Debug\MagicEigthBallServiceHost.pdb

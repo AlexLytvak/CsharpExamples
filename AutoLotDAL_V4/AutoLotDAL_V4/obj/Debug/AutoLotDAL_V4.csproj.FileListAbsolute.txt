@@ -1,0 +1,15 @@
+D:\Repository\AutoLotDAL_V4\AutoLotDAL_V4\obj\Debug\AutoLotDAL_V4.csprojResolveAssemblyReference.cache
+D:\Repository\AutoLotDAL_V4\AutoLotDAL_V4\bin\Debug\AutoLotDAL_V4.dll.config
+D:\Repository\AutoLotDAL_V4\AutoLotDAL_V4\bin\Debug\AutoLotDAL_V4.dll
+D:\Repository\AutoLotDAL_V4\AutoLotDAL_V4\bin\Debug\AutoLotDAL_V4.pdb
+D:\Repository\AutoLotDAL_V4\AutoLotDAL_V4\bin\Debug\EntityFramework.dll
+D:\Repository\AutoLotDAL_V4\AutoLotDAL_V4\bin\Debug\EntityFramework.SqlServer.dll
+D:\Repository\AutoLotDAL_V4\AutoLotDAL_V4\bin\Debug\EntityFramework.xml
+D:\Repository\AutoLotDAL_V4\AutoLotDAL_V4\bin\Debug\EntityFramework.SqlServer.xml
+D:\Repository\AutoLotDAL_V4\AutoLotDAL_V4\bin\Debug\ru\EntityFramework.resources.dll
+D:\Repository\AutoLotDAL_V4\AutoLotDAL_V4\obj\Debug\AutoLotDAL_V4.dll
+D:\Repository\AutoLotDAL_V4\AutoLotDAL_V4\obj\Debug\AutoLotDAL_V4.pdb
+D:\Repository\AutoLotDAL_V4\AutoLotDAL_V4\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Repository\AutoLotDAL_V4\AutoLotDAL_V4\obj\Debug\AutoLotDAL_V4.Migrations.InitialCreate.resources
+D:\Repository\AutoLotDAL_V4\AutoLotDAL_V4\obj\Debug\AutoLotDAL_V4.csproj.GenerateResource.Cache
+D:\Repository\AutoLotDAL_V4\AutoLotDAL_V4\obj\Debug\AutoLotDAL_V4.Migrations.TimeStamps.resources

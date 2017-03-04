@@ -1,0 +1,11 @@
+D:\Repository\AutoLotConsoleApp\AutoLotConsoleApp\bin\Debug\AutoLotConsoleApp.exe.config
+D:\Repository\AutoLotConsoleApp\AutoLotConsoleApp\bin\Debug\AutoLotConsoleApp.exe
+D:\Repository\AutoLotConsoleApp\AutoLotConsoleApp\bin\Debug\AutoLotConsoleApp.pdb
+D:\Repository\AutoLotConsoleApp\AutoLotConsoleApp\bin\Debug\EntityFramework.dll
+D:\Repository\AutoLotConsoleApp\AutoLotConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\Repository\AutoLotConsoleApp\AutoLotConsoleApp\bin\Debug\EntityFramework.xml
+D:\Repository\AutoLotConsoleApp\AutoLotConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\Repository\AutoLotConsoleApp\AutoLotConsoleApp\bin\Debug\ru\EntityFramework.resources.dll
+D:\Repository\AutoLotConsoleApp\AutoLotConsoleApp\obj\Debug\AutoLotConsoleApp.csprojResolveAssemblyReference.cache
+D:\Repository\AutoLotConsoleApp\AutoLotConsoleApp\obj\Debug\AutoLotConsoleApp.exe
+D:\Repository\AutoLotConsoleApp\AutoLotConsoleApp\obj\Debug\AutoLotConsoleApp.pdb

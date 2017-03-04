@@ -1,0 +1,6 @@
+D:\Repository\ParseAndLoadStringAsXml\ParseAndLoadStringAsXml\bin\Debug\ParseAndLoadStringAsXml.exe.config
+D:\Repository\ParseAndLoadStringAsXml\ParseAndLoadStringAsXml\bin\Debug\ParseAndLoadStringAsXml.exe
+D:\Repository\ParseAndLoadStringAsXml\ParseAndLoadStringAsXml\bin\Debug\ParseAndLoadStringAsXml.pdb
+D:\Repository\ParseAndLoadStringAsXml\ParseAndLoadStringAsXml\obj\Debug\ParseAndLoadStringAsXml.csprojResolveAssemblyReference.cache
+D:\Repository\ParseAndLoadStringAsXml\ParseAndLoadStringAsXml\obj\Debug\ParseAndLoadStringAsXml.exe
+D:\Repository\ParseAndLoadStringAsXml\ParseAndLoadStringAsXml\obj\Debug\ParseAndLoadStringAsXml.pdb

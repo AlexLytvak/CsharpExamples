@@ -1,0 +1,6 @@
+D:\Repository\IEnumeratorConsolApp\IEnumeratorConsolApp\bin\Debug\IEnumeratorConsolApp.exe.config
+D:\Repository\IEnumeratorConsolApp\IEnumeratorConsolApp\bin\Debug\IEnumeratorConsolApp.exe
+D:\Repository\IEnumeratorConsolApp\IEnumeratorConsolApp\bin\Debug\IEnumeratorConsolApp.pdb
+D:\Repository\IEnumeratorConsolApp\IEnumeratorConsolApp\obj\Debug\IEnumeratorConsolApp.csprojResolveAssemblyReference.cache
+D:\Repository\IEnumeratorConsolApp\IEnumeratorConsolApp\obj\Debug\IEnumeratorConsolApp.exe
+D:\Repository\IEnumeratorConsolApp\IEnumeratorConsolApp\obj\Debug\IEnumeratorConsolApp.pdb

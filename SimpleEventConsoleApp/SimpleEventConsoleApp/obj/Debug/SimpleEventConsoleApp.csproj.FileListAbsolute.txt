@@ -1,0 +1,6 @@
+D:\Repository\SimpleEventConsoleApp\SimpleEventConsoleApp\bin\Debug\SimpleEventConsoleApp.exe.config
+D:\Repository\SimpleEventConsoleApp\SimpleEventConsoleApp\bin\Debug\SimpleEventConsoleApp.exe
+D:\Repository\SimpleEventConsoleApp\SimpleEventConsoleApp\bin\Debug\SimpleEventConsoleApp.pdb
+D:\Repository\SimpleEventConsoleApp\SimpleEventConsoleApp\obj\Debug\SimpleEventConsoleApp.csprojResolveAssemblyReference.cache
+D:\Repository\SimpleEventConsoleApp\SimpleEventConsoleApp\obj\Debug\SimpleEventConsoleApp.exe
+D:\Repository\SimpleEventConsoleApp\SimpleEventConsoleApp\obj\Debug\SimpleEventConsoleApp.pdb

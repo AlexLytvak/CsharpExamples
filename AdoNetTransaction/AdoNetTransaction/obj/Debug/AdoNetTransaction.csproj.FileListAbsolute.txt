@@ -1,0 +1,8 @@
+D:\Repository\AdoNetTransaction\AdoNetTransaction\bin\Debug\AdoNetTransaction.exe.config
+D:\Repository\AdoNetTransaction\AdoNetTransaction\bin\Debug\AdoNetTransaction.exe
+D:\Repository\AdoNetTransaction\AdoNetTransaction\bin\Debug\AdoNetTransaction.pdb
+D:\Repository\AdoNetTransaction\AdoNetTransaction\bin\Debug\AutoLotDAL.dll
+D:\Repository\AdoNetTransaction\AdoNetTransaction\bin\Debug\AutoLotDAL.pdb
+D:\Repository\AdoNetTransaction\AdoNetTransaction\obj\Debug\AdoNetTransaction.csprojResolveAssemblyReference.cache
+D:\Repository\AdoNetTransaction\AdoNetTransaction\obj\Debug\AdoNetTransaction.exe
+D:\Repository\AdoNetTransaction\AdoNetTransaction\obj\Debug\AdoNetTransaction.pdb

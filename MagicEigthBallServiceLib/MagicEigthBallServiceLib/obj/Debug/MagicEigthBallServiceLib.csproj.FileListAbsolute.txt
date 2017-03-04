@@ -1,0 +1,5 @@
+D:\Repository\MagicEigthBallServiceLib\MagicEigthBallServiceLib\bin\Debug\MagicEigthBallServiceLib.dll
+D:\Repository\MagicEigthBallServiceLib\MagicEigthBallServiceLib\bin\Debug\MagicEigthBallServiceLib.pdb
+D:\Repository\MagicEigthBallServiceLib\MagicEigthBallServiceLib\obj\Debug\MagicEigthBallServiceLib.csprojResolveAssemblyReference.cache
+D:\Repository\MagicEigthBallServiceLib\MagicEigthBallServiceLib\obj\Debug\MagicEigthBallServiceLib.dll
+D:\Repository\MagicEigthBallServiceLib\MagicEigthBallServiceLib\obj\Debug\MagicEigthBallServiceLib.pdb

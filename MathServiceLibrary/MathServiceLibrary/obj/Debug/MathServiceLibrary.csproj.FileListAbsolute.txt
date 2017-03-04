@@ -1,0 +1,6 @@
+D:\Repository\MathServiceLibrary\MathServiceLibrary\bin\Debug\MathServiceLibrary.dll.config
+D:\Repository\MathServiceLibrary\MathServiceLibrary\bin\Debug\MathServiceLibrary.dll
+D:\Repository\MathServiceLibrary\MathServiceLibrary\bin\Debug\MathServiceLibrary.pdb
+D:\Repository\MathServiceLibrary\MathServiceLibrary\obj\Debug\MathServiceLibrary.csprojResolveAssemblyReference.cache
+D:\Repository\MathServiceLibrary\MathServiceLibrary\obj\Debug\MathServiceLibrary.dll
+D:\Repository\MathServiceLibrary\MathServiceLibrary\obj\Debug\MathServiceLibrary.pdb

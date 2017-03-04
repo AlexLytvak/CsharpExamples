@@ -1,0 +1,9 @@
+D:\Repository\WindowsFormsDataBinding\WindowsFormsDataBinding\bin\Debug\WindowsFormsDataBinding.exe.config
+D:\Repository\WindowsFormsDataBinding\WindowsFormsDataBinding\bin\Debug\WindowsFormsDataBinding.exe
+D:\Repository\WindowsFormsDataBinding\WindowsFormsDataBinding\bin\Debug\WindowsFormsDataBinding.pdb
+D:\Repository\WindowsFormsDataBinding\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.csprojResolveAssemblyReference.cache
+D:\Repository\WindowsFormsDataBinding\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.MainForm.resources
+D:\Repository\WindowsFormsDataBinding\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.Properties.Resources.resources
+D:\Repository\WindowsFormsDataBinding\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.csproj.GenerateResource.Cache
+D:\Repository\WindowsFormsDataBinding\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.exe
+D:\Repository\WindowsFormsDataBinding\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.pdb

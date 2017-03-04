@@ -1,0 +1,10 @@
+D:\Repository\LinqToXmlWinApp\LinqToXmlWinApp\bin\Debug\LinqToXmlWinApp.exe.config
+D:\Repository\LinqToXmlWinApp\LinqToXmlWinApp\bin\Debug\Inventory.xml
+D:\Repository\LinqToXmlWinApp\LinqToXmlWinApp\bin\Debug\LinqToXmlWinApp.exe
+D:\Repository\LinqToXmlWinApp\LinqToXmlWinApp\bin\Debug\LinqToXmlWinApp.pdb
+D:\Repository\LinqToXmlWinApp\LinqToXmlWinApp\obj\Debug\LinqToXmlWinApp.csprojResolveAssemblyReference.cache
+D:\Repository\LinqToXmlWinApp\LinqToXmlWinApp\obj\Debug\LinqToXmlWinApp.MainForm.resources
+D:\Repository\LinqToXmlWinApp\LinqToXmlWinApp\obj\Debug\LinqToXmlWinApp.Properties.Resources.resources
+D:\Repository\LinqToXmlWinApp\LinqToXmlWinApp\obj\Debug\LinqToXmlWinApp.csproj.GenerateResource.Cache
+D:\Repository\LinqToXmlWinApp\LinqToXmlWinApp\obj\Debug\LinqToXmlWinApp.exe
+D:\Repository\LinqToXmlWinApp\LinqToXmlWinApp\obj\Debug\LinqToXmlWinApp.pdb

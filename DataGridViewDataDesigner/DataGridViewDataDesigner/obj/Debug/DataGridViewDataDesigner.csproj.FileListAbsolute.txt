@@ -1,0 +1,9 @@
+D:\Repository\DataGridViewDataDesigner\DataGridViewDataDesigner\bin\Debug\DataGridViewDataDesigner.exe.config
+D:\Repository\DataGridViewDataDesigner\DataGridViewDataDesigner\bin\Debug\DataGridViewDataDesigner.exe
+D:\Repository\DataGridViewDataDesigner\DataGridViewDataDesigner\bin\Debug\DataGridViewDataDesigner.pdb
+D:\Repository\DataGridViewDataDesigner\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.csprojResolveAssemblyReference.cache
+D:\Repository\DataGridViewDataDesigner\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.MainForm.resources
+D:\Repository\DataGridViewDataDesigner\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.Properties.Resources.resources
+D:\Repository\DataGridViewDataDesigner\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.csproj.GenerateResource.Cache
+D:\Repository\DataGridViewDataDesigner\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.exe
+D:\Repository\DataGridViewDataDesigner\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.pdb

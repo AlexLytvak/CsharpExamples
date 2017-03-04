@@ -1,0 +1,6 @@
+D:\Repository\Event1ConsoleApp\Event1ConsoleApp\bin\Debug\Event1ConsoleApp.exe.config
+D:\Repository\Event1ConsoleApp\Event1ConsoleApp\bin\Debug\Event1ConsoleApp.exe
+D:\Repository\Event1ConsoleApp\Event1ConsoleApp\bin\Debug\Event1ConsoleApp.pdb
+D:\Repository\Event1ConsoleApp\Event1ConsoleApp\obj\Debug\Event1ConsoleApp.csprojResolveAssemblyReference.cache
+D:\Repository\Event1ConsoleApp\Event1ConsoleApp\obj\Debug\Event1ConsoleApp.exe
+D:\Repository\Event1ConsoleApp\Event1ConsoleApp\obj\Debug\Event1ConsoleApp.pdb

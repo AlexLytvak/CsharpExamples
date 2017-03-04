@@ -1,0 +1,16 @@
+D:\Repository\AutoLotDAL\AutoLotDAL\bin\Debug\AutoLotDAL.dll
+D:\Repository\AutoLotDAL\AutoLotDAL\bin\Debug\AutoLotDAL.pdb
+D:\Repository\AutoLotDAL\AutoLotDAL\obj\Debug\AutoLotDAL.csprojResolveAssemblyReference.cache
+D:\Repository\AutoLotDAL\AutoLotDAL\obj\Debug\AutoLotDAL.dll
+D:\Repository\AutoLotDAL\AutoLotDAL\obj\Debug\AutoLotDAL.pdb
+D:\Repository\AutoLotDAL.Version2\AutoLotDAL\bin\Debug\AutoLotDAL.dll
+D:\Repository\AutoLotDAL.Version2\AutoLotDAL\bin\Debug\AutoLotDAL.pdb
+D:\Repository\AutoLotDAL.Version2\AutoLotDAL\obj\Debug\AutoLotDAL.csprojResolveAssemblyReference.cache
+D:\Repository\AutoLotDAL.Version2\AutoLotDAL\obj\Debug\AutoLotDAL.dll
+D:\Repository\AutoLotDAL.Version2\AutoLotDAL\obj\Debug\AutoLotDAL.pdb
+D:\Repository\AutoLotDAL.Version3\AutoLotDAL\bin\Debug\AutoLotDAL.dll
+D:\Repository\AutoLotDAL.Version3\AutoLotDAL\bin\Debug\AutoLotDAL.pdb
+D:\Repository\AutoLotDAL.Version3\AutoLotDAL\obj\Debug\AutoLotDAL.csprojResolveAssemblyReference.cache
+D:\Repository\AutoLotDAL.Version3\AutoLotDAL\obj\Debug\AutoLotDAL.dll
+D:\Repository\AutoLotDAL.Version3\AutoLotDAL\obj\Debug\AutoLotDAL.pdb
+D:\Repository\AutoLotDAL.Version3\AutoLotDAL\bin\Debug\AutoLotDAL.dll.config

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e55b44c0-5387-43de-bb5d-b217ef0c2f03" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address=" http://localhost:8080/MagicEigthBallService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MagicEigthBallService.xsd" MetadataType="Schema" ID="350843c8-84f4-4e28-b826-697f8724e73f" SourceId="1" SourceUrl="http://localhost:8080/MagicEigthBallService?xsd=xsd0" />
+    <MetadataFile FileName="MagicEigthBallService.disco" MetadataType="Disco" ID="8c4ca6db-1f30-4e65-adb5-54c871ddb5b2" SourceId="1" SourceUrl="http://localhost:8080/MagicEigthBallService?disco" />
+    <MetadataFile FileName="MagicEigthBallService.wsdl" MetadataType="Wsdl" ID="08653717-dde3-4113-961b-aea72eb30295" SourceId="1" SourceUrl="http://localhost:8080/MagicEigthBallService?wsdl=wsdl0" />
+    <MetadataFile FileName="MagicEigthBallService1.wsdl" MetadataType="Wsdl" ID="1714f855-3414-4dad-bb90-f47ac5583b46" SourceId="1" SourceUrl="http://localhost:8080/MagicEigthBallService?wsdl" />
+    <MetadataFile FileName="MagicEigthBallService1.xsd" MetadataType="Schema" ID="542e0e18-b6b0-4357-9c54-52702c8fc755" SourceId="1" SourceUrl="http://localhost:8080/MagicEigthBallService?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

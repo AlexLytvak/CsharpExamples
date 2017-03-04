@@ -1,0 +1,6 @@
+D:\Repository\LingToXmlFirstLook\LingToXmlFirstLook\bin\Debug\LingToXmlFirstLook.exe.config
+D:\Repository\LingToXmlFirstLook\LingToXmlFirstLook\bin\Debug\LingToXmlFirstLook.exe
+D:\Repository\LingToXmlFirstLook\LingToXmlFirstLook\bin\Debug\LingToXmlFirstLook.pdb
+D:\Repository\LingToXmlFirstLook\LingToXmlFirstLook\obj\Debug\LingToXmlFirstLook.csprojResolveAssemblyReference.cache
+D:\Repository\LingToXmlFirstLook\LingToXmlFirstLook\obj\Debug\LingToXmlFirstLook.exe
+D:\Repository\LingToXmlFirstLook\LingToXmlFirstLook\obj\Debug\LingToXmlFirstLook.pdb

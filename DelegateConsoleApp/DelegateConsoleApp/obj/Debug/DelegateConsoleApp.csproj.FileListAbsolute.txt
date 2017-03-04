@@ -1,0 +1,6 @@
+D:\Repository\DelegateConsoleApp\DelegateConsoleApp\bin\Debug\DelegateConsoleApp.exe.config
+D:\Repository\DelegateConsoleApp\DelegateConsoleApp\bin\Debug\DelegateConsoleApp.exe
+D:\Repository\DelegateConsoleApp\DelegateConsoleApp\bin\Debug\DelegateConsoleApp.pdb
+D:\Repository\DelegateConsoleApp\DelegateConsoleApp\obj\Debug\DelegateConsoleApp.csprojResolveAssemblyReference.cache
+D:\Repository\DelegateConsoleApp\DelegateConsoleApp\obj\Debug\DelegateConsoleApp.exe
+D:\Repository\DelegateConsoleApp\DelegateConsoleApp\obj\Debug\DelegateConsoleApp.pdb

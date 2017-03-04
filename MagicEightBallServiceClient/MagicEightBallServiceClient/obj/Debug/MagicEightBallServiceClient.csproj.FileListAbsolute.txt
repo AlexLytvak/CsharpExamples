@@ -1,0 +1,6 @@
+D:\Repository\MagicEightBallServiceClient\MagicEightBallServiceClient\bin\Debug\MagicEightBallServiceClient.exe.config
+D:\Repository\MagicEightBallServiceClient\MagicEightBallServiceClient\bin\Debug\MagicEightBallServiceClient.exe
+D:\Repository\MagicEightBallServiceClient\MagicEightBallServiceClient\bin\Debug\MagicEightBallServiceClient.pdb
+D:\Repository\MagicEightBallServiceClient\MagicEightBallServiceClient\obj\Debug\MagicEightBallServiceClient.csprojResolveAssemblyReference.cache
+D:\Repository\MagicEightBallServiceClient\MagicEightBallServiceClient\obj\Debug\MagicEightBallServiceClient.exe
+D:\Repository\MagicEightBallServiceClient\MagicEightBallServiceClient\obj\Debug\MagicEightBallServiceClient.pdb

@@ -1,0 +1,6 @@
+D:\Repository\DeleagateApp\DeleagateApp\bin\Debug\DeleagateApp.exe.config
+D:\Repository\DeleagateApp\DeleagateApp\bin\Debug\DeleagateApp.exe
+D:\Repository\DeleagateApp\DeleagateApp\bin\Debug\DeleagateApp.pdb
+D:\Repository\DeleagateApp\DeleagateApp\obj\Debug\DeleagateApp.csprojResolveAssemblyReference.cache
+D:\Repository\DeleagateApp\DeleagateApp\obj\Debug\DeleagateApp.exe
+D:\Repository\DeleagateApp\DeleagateApp\obj\Debug\DeleagateApp.pdb

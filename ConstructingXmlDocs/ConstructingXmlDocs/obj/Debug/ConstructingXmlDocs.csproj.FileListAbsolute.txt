@@ -1,0 +1,6 @@
+D:\Repository\ConstructingXmlDocs\ConstructingXmlDocs\bin\Debug\ConstructingXmlDocs.exe.config
+D:\Repository\ConstructingXmlDocs\ConstructingXmlDocs\bin\Debug\ConstructingXmlDocs.exe
+D:\Repository\ConstructingXmlDocs\ConstructingXmlDocs\bin\Debug\ConstructingXmlDocs.pdb
+D:\Repository\ConstructingXmlDocs\ConstructingXmlDocs\obj\Debug\ConstructingXmlDocs.csprojResolveAssemblyReference.cache
+D:\Repository\ConstructingXmlDocs\ConstructingXmlDocs\obj\Debug\ConstructingXmlDocs.exe
+D:\Repository\ConstructingXmlDocs\ConstructingXmlDocs\obj\Debug\ConstructingXmlDocs.pdb

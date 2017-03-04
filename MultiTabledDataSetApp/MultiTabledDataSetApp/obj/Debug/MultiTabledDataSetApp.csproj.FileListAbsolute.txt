@@ -1,0 +1,9 @@
+D:\Repository\MultiTabledDataSetApp\MultiTabledDataSetApp\bin\Debug\MultiTabledDataSetApp.exe.config
+D:\Repository\MultiTabledDataSetApp\MultiTabledDataSetApp\bin\Debug\MultiTabledDataSetApp.exe
+D:\Repository\MultiTabledDataSetApp\MultiTabledDataSetApp\bin\Debug\MultiTabledDataSetApp.pdb
+D:\Repository\MultiTabledDataSetApp\MultiTabledDataSetApp\obj\Debug\MultiTabledDataSetApp.csprojResolveAssemblyReference.cache
+D:\Repository\MultiTabledDataSetApp\MultiTabledDataSetApp\obj\Debug\MultiTabledDataSetApp.MainForm.resources
+D:\Repository\MultiTabledDataSetApp\MultiTabledDataSetApp\obj\Debug\MultiTabledDataSetApp.Properties.Resources.resources
+D:\Repository\MultiTabledDataSetApp\MultiTabledDataSetApp\obj\Debug\MultiTabledDataSetApp.csproj.GenerateResource.Cache
+D:\Repository\MultiTabledDataSetApp\MultiTabledDataSetApp\obj\Debug\MultiTabledDataSetApp.exe
+D:\Repository\MultiTabledDataSetApp\MultiTabledDataSetApp\obj\Debug\MultiTabledDataSetApp.pdb
